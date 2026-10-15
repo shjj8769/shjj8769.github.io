@@ -39,6 +39,11 @@ window.CV_CONTENT = {
           "label": "+82 10-4932-8769",
           "url": "tel:+821049328769",
           "icon": "phone"
+        },
+        {
+          "label": "github.com/shjj8769",
+          "url": "https://github.com/shjj8769",
+          "icon": "github"
         }
       ],
       "printAddress": ""
@@ -87,7 +92,11 @@ window.CV_CONTENT = {
               "Git",
               "Python"
             ],
-            "summary": "초고령화 사회 진입에 따른 지방 소멸과 지역 간 의료 격차 문제를 해결하기 위해, 인구 통계와 보건의료 접근성, 대중교통 인프라 데이터를 복합적으로 융합한 ‘한국형 의료 이동 취약성 지수(K-MMVI)’ 기반 프레임워크를 제안합니다."
+            "summary": "초고령화 사회 진입에 따른 지방 소멸과 지역 간 의료 격차 문제를 해결하기 위해, 인구 통계와 보건의료 접근성, 대중교통 인프라 데이터를 복합적으로 융합한 ‘한국형 의료 이동 취약성 지수(K-MMVI)’ 기반 프레임워크를 제안합니다.",
+            "link": {
+              "label": "GitHub에서 보기",
+              "url": "https://github.com/shjj8769/Portfolio_Project-1"
+            }
           },
           {
             "id": "heart",
@@ -99,15 +108,20 @@ window.CV_CONTENT = {
             "summary": "기존 데이터에서 운동·생리 관련 설명변수를 선별하고 반응변수와의 관계를 확인했습니다. 적합한 모델을 구축하고 성능을 평가해 분석 결과를 도출했습니다.",
             "details": [
               "KNN 정규화, 의사결정나무(C5.0), 로지스틱 회귀분석을 적용했습니다."
-            ]
+            ],
+            "link": {
+              "label": "GitHub에서 보기",
+              "url": "https://github.com/shjj8769/Portfolio_Project-2"
+            }
           },
           {
             "id": "qshing",
             "title": "QshingGuard: 위치·맥락 기반 QR 피싱(Qshing) 실시간 차단 시스템",
             "date": "2026.04 – 2026.05",
             "tools": [
-              "R",
-              "SPSS"
+              "Python",
+              "Scikit-learn",
+              "FastAPI"
             ],
             "summary": "QR코드를 악용한 피싱 공격(Qshing)에 대응하기 위해 AI와 블록체인 기술을 결합한 실시간 QR 보안 인증 플랫폼을 기획했습니다.",
             "details": [
@@ -117,22 +131,28 @@ window.CV_CONTENT = {
             "outcomes": [
               "금융 정보 탈취 방지",
               "변조된 QR 공격 차단 및 안전한 QR 인증 인프라 제공"
-            ]
+            ],
+            "link": {
+              "label": "GitHub에서 보기",
+              "url": "https://github.com/shjj8769/Portfolio_Project-3"
+            }
           },
           {
             "id": "survey",
             "title": "통계조사 분석 보고서",
             "date": "2025.03 – 2025.05",
             "tools": [
-              "FastAPI",
-              "Python",
-              "Claude AI"
+              "SPSS"
             ],
             "summary": "서울시 고립·은둔 청년 가구 실태조사 설문 자료를 활용해 청년 가구원의 고립·은둔 여부와 가족의 인식, 지원 필요성을 다각도로 분석했습니다.",
             "details": [
               "A영역(고립·은둔 여부 확인): 구조적 요인에 따른 변화를 확인했습니다.",
               "B영역(고립·은둔 가족의 어려움 및 필요사항): 가족의 대응 방식과 정책적 지원을 분석했습니다."
-            ]
+            ],
+            "link": {
+              "label": "GitHub에서 보기",
+              "url": "https://github.com/shjj8769/Portfolio_Project-4"
+            }
           }
         ]
       },
@@ -233,6 +253,11 @@ window.CV_CONTENT = {
           "label": "+82 10-4932-8769",
           "url": "tel:+821049328769",
           "icon": "phone"
+        },
+        {
+          "label": "github.com/shjj8769",
+          "url": "https://github.com/shjj8769",
+          "icon": "github"
         }
       ],
       "printAddress": ""
@@ -281,7 +306,11 @@ window.CV_CONTENT = {
               "Git",
               "Python"
             ],
-            "summary": "A framework based on the Korean Medical Mobility Vulnerability Index (K-MMVI), combining population statistics, healthcare accessibility and public transport infrastructure data to address regional medical disparities and population decline in a super-aged society."
+            "summary": "A framework based on the Korean Medical Mobility Vulnerability Index (K-MMVI), combining population statistics, healthcare accessibility and public transport infrastructure data to address regional medical disparities and population decline in a super-aged society.",
+            "link": {
+              "label": "View on GitHub",
+              "url": "https://github.com/shjj8769/Portfolio_Project-1"
+            }
           },
           {
             "id": "heart",
@@ -293,15 +322,20 @@ window.CV_CONTENT = {
             "summary": "Selected exercise-related and physiological predictors from an existing dataset, examined their relationship with the response variable, and built and evaluated suitable prediction models.",
             "details": [
               "Applied normalized KNN, C5.0 decision trees and logistic regression."
-            ]
+            ],
+            "link": {
+              "label": "View on GitHub",
+              "url": "https://github.com/shjj8769/Portfolio_Project-2"
+            }
           },
           {
             "id": "qshing",
             "title": "QshingGuard: Location- and context-based protection against QR phishing",
             "date": "2026.04 – 2026.05",
             "tools": [
-              "R",
-              "SPSS"
+              "Python",
+              "Scikit-learn",
+              "FastAPI"
             ],
             "summary": "Planned a real-time QR security authentication platform combining AI and blockchain to address phishing attacks that exploit QR codes.",
             "details": [
@@ -311,22 +345,28 @@ window.CV_CONTENT = {
             "outcomes": [
               "Prevent the theft of financial information",
               "Block tampered QR attacks and provide safer QR authentication infrastructure"
-            ]
+            ],
+            "link": {
+              "label": "View on GitHub",
+              "url": "https://github.com/shjj8769/Portfolio_Project-3"
+            }
           },
           {
             "id": "survey",
             "title": "Statistical survey analysis report",
             "date": "2025.03 – 2025.05",
             "tools": [
-              "FastAPI",
-              "Python",
-              "Claude AI"
+              "SPSS"
             ],
             "summary": "Analyzed survey data on households with socially isolated or withdrawn young people in Seoul, examining isolation status, family perceptions and support needs.",
             "details": [
               "Section A: Examined variation in isolation and withdrawal status across structural factors.",
               "Section B: Analyzed family responses, difficulties and needs for policy support."
-            ]
+            ],
+            "link": {
+              "label": "View on GitHub",
+              "url": "https://github.com/shjj8769/Portfolio_Project-4"
+            }
           }
         ]
       },
