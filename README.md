@@ -2,8 +2,8 @@
 
 **🔗 https://shjj8769.github.io**
 
-사용 기술: HTML · CSS · JavaScript
-이메일: shjj8769@gmail.com
+- 사용 기술: HTML · CSS · JavaScript
+- 이메일: shjj8769@gmail.com
 
 ## 구성
 
