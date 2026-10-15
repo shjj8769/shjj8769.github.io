@@ -436,6 +436,13 @@
       outcomes.append(items);
       copy.append(outcomes);
     }
+    if (project.link) {
+      const link = makeLink(project.link, "entry-link project-link", "github");
+      if (link) {
+        link.append(makeIcon("arrow"));
+        copy.append(link);
+      }
+    }
     entry.append(copy, renderSlideViewer(project));
     return entry;
   }
